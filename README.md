@@ -11,6 +11,12 @@ This app has preconfigured `npm` to automatically run `bower` so we can simply d
 ```
 npm install
 ```
+If the dependencies do not install then please use 
+
+```
+bower install
+```
+
 ### Run the Application
 
 The project contains simple development web server.  The simplest way to start
