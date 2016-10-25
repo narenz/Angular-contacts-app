@@ -1,8 +1,15 @@
 # Contacts management system
 
-This project is an basic web application to manage a simple contacts.
+This project is an basic web application to manage a simple contacts built in ~2 hours for test purposes. This App can Add, List and View more details about each contact.
 This is built using Angular seed which is used to quickly bootstrap your angular webapp projects and dev environment for these
 projects.
+
+The app uses the following rest api to fetch the data:
+
+```
+ http://www.mocky.io/v2/580e37bc120000ae1007880c
+
+```
 
 ### Install Dependencies
 
@@ -45,3 +52,9 @@ or
 ```
 npm run test-single-run
 ```
+
+## TODO
+
+- Productionise the app. The App is in the debug mode.
+- To improve the testing coverage.
+- Edit/Delete options.
